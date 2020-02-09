@@ -51,7 +51,7 @@ function App() {
           return null;
         }
 
-        // make http request using Axios in BarcodeRequest file
+        // make httprequest using Axios in BarcodeRequest file
         // const data = await BarcodeRequest(code);
         // console.log(data);
       }
